@@ -4,3 +4,4 @@ manager : HyeonSeo
 
 members :
 - JinHo
+- Olivia
