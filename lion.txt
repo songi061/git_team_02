@@ -1,6 +1,6 @@
 team : Lions
 
-manager : JeongSeop
+manager : Seop
 
 members :
 - JinHo
